@@ -51,7 +51,7 @@ python main.py
 Evaluate tracking results and generate insights using `eval.py`:
 
 ```bash
-python eval.py
+python eval.ipynb
 ```
 
 ---
